@@ -20,7 +20,7 @@ Create an Todo Application !
 ## Installation
 1. Clone the repository
 2. ```shell script
-   git clone https://github.com/krigjo25/Console-StudentManagementSystem-cs
+   git clone https://github.com/krigjo25/console-todo-cs
    ```
 3. Open the project in Visual Studio
 4. Run the project
